@@ -7,10 +7,10 @@ Este proyecto busca solucionar este problema mediante un sistema en línea que r
 
 
 ### Alcance(Scope)
-Visualización en tiempo real del Índice UV, temperatura y humedad.
-Descarga de datos en formatos CSV.
-Base de datos centralizada para almacenar las mediciones.
-Actualización automática de los datos cada 10 minutos.
+* Visualización en tiempo real del Índice UV, temperatura y humedad.
+* Descarga de datos en formatos CSV.
+* Base de datos centralizada para almacenar las mediciones.
+* Actualización automática de los datos cada 10 minutos.
 
 #### Casos de uso
 Descripción...
