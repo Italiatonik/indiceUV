@@ -1,15 +1,10 @@
 # Proyecto para Arquitectura de Backend
 
 ## Objetivo
-La meta del estudiante consiste en aprender a desarrollar un sistema de Backend desde 0, llevando a cabo la interpretacion de "requerimientos de negocio" hasta la implementacion del mismo, y debera realizarse tomando en cuenta la planificacion de una arquitectura que detalle en alto nivel como el sistema propuesto cumple con los casos de uso derivados de los requerimientos.
+Desarrollar un sitio web donde la personas puedan visulazliar el tiempo real del Incide UV y desacargar los datos de al rango de fecha que el usuaurio coloque. Este sistema recolecta los datos desde un dispositivo colocado en un punto estrategico, dodne estos datos se van almacenar en una base de datos para que posteriormente se puedan visualziar y descargar. La pagina se actualizara cada 10 minnutos y los datos recolectador del disposito se enviaran en el mismo peirodo a la base datos.
 
 ## Requerimientos del cliente
 
-La empresa "RandomCameraReviews" necesita un sistema que permita que fotografos profesionales suban "reviews" de Camaras fotograficas, para que cualquier persona desde cualquier parte del mundo pueda buscar los reviews y comprarlas a travez de su portal.
-La empresa cuenta con un equipo de developers especializado en frontEnd que realizara un portal para que los editores suban los "reviews" y los usuarios puedan verlos, y han solicitado que tu como especialista en Backend, les proporciones un sistema, incluyendo API que permita  realizar lo siguiente:
+Se  requiere que la pagina pueda adecuarse en cualquier dispositivo, donde las personas puedan ver en tiempo real el indice UV así como la temperatura y humedad.
 
-* Subir reviews de Camaras fotograficas
-* Obtener el contenido de los reviews para mostrarlo en vistas del portal en sus versiones web y mobile.
-* Manejo de usuarios para editores (no incluye visitantes que leen los reviews)
 
-Tambien se sabe que la empresa "RandomCameraReviews" planea distribuir mayormente en America del Sur donde esta su mercado mas grande, pero tambien tienen ventas en norte america, Europa, y muy pocas en Asia.
